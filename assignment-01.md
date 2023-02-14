@@ -125,7 +125,10 @@ E.g., `longest_run([2,12,12,8,12,12,12,0,12,1], 12) == 3`
 .  
 .  
 .  
-.  
+.  ![IMG_6400](https://user-images.githubusercontent.com/123043414/218641000-64284af1-fd23-4ccc-9b55-a419b941aee0.jpg)
+![IMG_6401](https://user-images.githubusercontent.com/123043414/218641005-6c655028-d7de-40fe-be9e-8a444e346582.jpg)
+![IMG_6395](https://user-images.githubusercontent.com/123043414/218641007-6419047e-85e1-48a5-8a8a-6080a774bf9a.jpg)
+
 .  
 .  
 .  
